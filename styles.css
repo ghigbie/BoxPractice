@@ -1,6 +1,12 @@
 
 p {
-	width: 200px;
+	width: 50%; /*the percent is releatice the the parent element, which is the body here*/
+	height: 300px;
 	border: 2px solid blue;
-
+	/*padding: 100px;*/
+	padding-left: 40px;
+	/*margin: 10px 40px 500px 100px;*/
+	/*margin: 10px auto 10px auto;*/
+	/*margin: 0 auto; - you should use px unless the number is 0*/
+	margin: 50px 20px; /*
 }
